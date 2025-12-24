@@ -1,20 +1,73 @@
 <div align="center">
 
-# 🍬 Ba-Effe
+# 🎞️ Ba-Effe
 
-### Effervescence Creatives Repository
+### 🎨 Effervescence Creatives Repository
 
 <img src="./assets/banner.jpg" alt="Ba-Effe Banner" width="800"/>
 
+---
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <b>🎬 Theme</b><br/>
+  <i>Rangara (रंगारा)</i>
+</td>
+<td align="center" width="33%">
+  <b>🏛️ Institution</b><br/>
+  <i>IIIT Allahabad</i>
+</td>
+<td align="center" width="33%">
+  <b>✨ Event</b><br/>
+  <i>Effervescence '25</i>
+</td>
+</tr>
+</table>
+
 </div>
 
-Welcome to **Ba-Effe**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad. Yes, it's exactly what Ranbir Kapoor's character in Barfi could spell - if you know, you know.
+---
 
-And here's where it gets interesting: just like the film Barfi transported us back to the romantic 1970s with its vintage aesthetics and nostalgic charm, we're diving deep into that golden era for our theme **"Rangara"** (रंगारा) - a celebration of the colorful, dramatic, and unforgettable world of 70s-80s Bollywood! Think hand-painted film posters, bold typography, warm sepia tones, and that unapologetic masala cinema energy. From the angry young man to the disco dancer, from hand-painted billboards to technicolor dreams - we're bringing back the era when every frame was a spectacle and every design told a story. So bring your most dramatic, colorful, and cinematic design energy, and let's create some rangeen magic! 🎬✨
+## 🍬 What is Ba-Effe?
+
+Welcome to **Ba-Effe**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad. Yes, it's exactly what Ranbir Kapoor's character in *Barfi!* could spell - if you know, you know.
+
+## 🎭 The Rangara Story
+
+And here's where it gets interesting: just like the film *Barfi!* transported us back to the romantic 1970s with its vintage aesthetics and nostalgic charm, we're diving deep into that golden era for our theme **"Rangara"** (रंगारा) - a celebration of the colorful, dramatic, and unforgettable world of 70s-80s Bollywood! 
+
+<div align="center">
+
+```
+🎬 Hand-painted Film Posters  |  🎨 Bold Typography  |  🌅 Warm Sepia Tones  |  ✨ Masala Cinema Energy
+```
+
+</div>
+
+From the **angry young man** to the **disco dancer**, from hand-painted billboards to technicolor dreams - we're bringing back the era when every frame was a spectacle and every design told a story. So bring your most dramatic, colorful, and cinematic design energy, and let's create some **rangeen magic!** 🎬✨
+
+<div align="center">
+
+### 👥 Everyone is Welcome!
 
 Whether you're taking your first steps in design or you're a seasoned pro, this is your space to contribute and collaborate.
 
-> 📖 **Want to dive deeper into the Rangara theme?** Check out the complete theme guide: [**Effervescence'25 Theme PDF**](./Theme/Rangara.pdf)
+---
+
+<table>
+<tr>
+<td align="center">
+  
+📖 **Want to dive deeper into the Rangara theme?**
+  
+Check out the complete theme guide: [**Effervescence'25 Theme PDF**](./Theme/Rangara.pdf)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 ## 🌟 What This Repo Is For
